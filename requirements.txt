@@ -1,0 +1,6 @@
+streamlit>=1.45,<2
+yfinance>=1.7,<2
+plotly>=7.1,<8
+pandas>=3,<4
+openai>=2,<3
+pypdf>=6,<7
